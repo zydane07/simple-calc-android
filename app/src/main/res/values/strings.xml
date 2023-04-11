@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sismpleCalc</string>
+    <string name="hint_value_one">Masukkan Angka Pertama</string>
+    <string name="hint_value_two">Masukkan Angka Kedua</string>
+    <string name="add">Tambah</string>
+    <string name="sub">Kurang</string>
+    <string name="mul">Kali</string>
+    <string name="div">Bagi</string>x
+    <string name="result">Hasil</string>
+
+</resources>
